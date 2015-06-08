@@ -1,79 +1,4 @@
-img.wp-smiley,
-img.emoji {
-    display: inline !important;
-    border: 0 !important;
-    box-shadow: none !important;
-    height: 1em !important;
-    width: 1em !important;
-    margin: 0 .07em !important;
-    vertical-align: -.1em !important;
-    background: none !important;
-    padding: 0 !important
-}
-div.wpcf7 {
-    margin: 0;
-    padding: 0
-}
-div.wpcf7-response-output {
-    margin: 2em .5em 1em;
-    padding: .2em 1em
-}
-div.wpcf7 .screen-reader-response {
-    position: absolute;
-    overflow: hidden;
-    clip: rect(1px, 1px, 1px, 1px);
-    height: 1px;
-    width: 1px;
-    margin: 0;
-    padding: 0;
-    border: 0
-}
-div.wpcf7-mail-sent-ok {
-    border: 2px solid #398f14
-}
-div.wpcf7-mail-sent-ng {
-    border: 2px solid red
-}
-div.wpcf7-spam-blocked {
-    border: 2px solid orange
-}
-div.wpcf7-validation-errors {
-    border: 2px solid #f7e700
-}
-span.wpcf7-form-control-wrap {
-    position: relative
-}
-span.wpcf7-not-valid-tip {
-    color: #f00;
-    font-size: 1em;
-    display: block
-}
-.use-floating-validation-tip span.wpcf7-not-valid-tip {
-    position: absolute;
-    top: 20%;
-    left: 20%;
-    z-index: 100;
-    border: 1px solid red;
-    background: #fff;
-    padding: .2em .8em
-}
-span.wpcf7-list-item {
-    margin-left: .5em
-}
-.wpcf7-display-none {
-    display: none
-}
-div.wpcf7 img.ajax-loader {
-    border: 0;
-    vertical-align: middle;
-    margin-left: 4px
-}
-div.wpcf7 div.ajax-error {
-    display: none
-}
-div.wpcf7 .placeheld {
-    color: #888
-}
+
 .crumenu,
 .crumenu .crumenu-column,
 .crumenu .crumenu-divider,
@@ -209,12 +134,7 @@ div.wpcf7 .placeheld {
 .crumenu-bar-align-full {
     clear: both
 }
-.crumenu-bar-align-left {
-    float: left
-}
-.crumenu-bar-align-right {
-    float: right
-}
+
 .crumenu-bar-align-center {
     float: none;
     margin: 0 auto
@@ -3510,26 +3430,6 @@ font-style:normal
 .crumenu-notouch .crumenu-submenu .crumenu-item.crumenu-item-179>.crumenu-target:hover {
     background: #f2f2f2
 }
-.crumenu .crumenu-submenu.crumenu-submenu-id-39 {
-    width: 687px;
-    min-width: 687px
-}
-.crumenu .crumenu-submenu.crumenu-submenu-id-28 {
-    background-image: url(http://wpmegamenu.com/wp-content/uploads/2014/06/doodle_stocks_squash.png);
-    background-repeat: no-repeat;
-    background-position: bottom right
-}
-.crumenu .crumenu-submenu.crumenu-submenu-id-412 {
-    width: 687px;
-    min-width: 687px
-}
-.crumenu .crumenu-submenu.crumenu-submenu-id-183 {
-    background-image: url(../images/background.png);
-    background-size: 20%;
-    background-repeat: no-repeat;
-    background-position: bottom right;
-    background-size: auto
-}
 
 .crumenu-item-link{
     background: #fff;
@@ -3537,7 +3437,7 @@ font-style:normal
 }
 
 
-.crumenu .crumenu-submenu.crumenu-submenu-id-7 {
+.crumenu .crumenu-submenu.crumenu-submenu-bkg-img {
     background-image: url(//wpmegamenu.com/wp-content/uploads/2014/06/woman-music_200.png);
     background-repeat: no-repeat;
     background-position: bottom left;
